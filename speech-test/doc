@@ -1,0 +1,29 @@
+# Azure Speech Studio – Anotações de Teste
+
+Este documento contém as anotações e experimentos realizados com o **Azure Speech Studio**, focado em serviços de **Fala para Texto** (STT) e **Texto para Fala** (TTS).
+
+---
+
+## Speech to Text (Reconhecimento de Fala)
+
+### Objetivo
+Converter entrada de áudio em texto.
+
+### Observações:
+- A transcrição funciona melhor com áudio claro e sem ruído de fundo.
+- Testado com áudios em inglês.
+- Capaz de reconhecer pausas e pontuação básica.
+
+### 🛠️ Exemplo usado:
+> Áudio: “Hi am Gabriela. I am testing the speech studio.”
+
+**Resultado da transcrição:**  
+`Hi am Gabriela. I am testing the speech studio`
+
+
+---
+
+## 📌 Considerações Finais
+
+- Speech Studio é intuitivo, mesmo para iniciantes.
+- Recurso útil para **acessibilidade**, **assistentes de voz** e **atendimentos automatizados**.
