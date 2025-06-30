@@ -1,19 +1,19 @@
-# 💬 Desafio DIO - Azure Speech Studio e Language Studio
+#Desafio DIO - Azure Speech Studio e Language Studio
 
 Este repositório foi criado como parte do laboratório prático proposto pela DIO para aplicar e aprofundar o uso das ferramentas **Azure Speech Studio** e **Language Studio**, com foco em soluções de **Inteligência Artificial para Fala e Linguagem Natural**.
 
 ---
 
-## 🧠 Objetivos do Desafio
+## Objetivos do Desafio
 
-✅ Aplicar os conceitos de IA em ambiente prático, utilizando serviços da Microsoft Azure  
-✅ Desenvolver habilidades com ferramentas de **Speech-to-Text**, **Text-to-Speech**, análise de sentimento, extração de frases-chave e detecção de idioma  
-✅ Documentar o processo técnico e os aprendizados  
-✅ Criar uma base de apoio para futuras implementações e estudos
+Aplicar os conceitos de IA em ambiente prático, utilizando serviços da Microsoft Azure  
+Desenvolver habilidades com ferramentas de **Speech-to-Text**, **Text-to-Speech**, análise de sentimento, extração de frases-chave e detecção de idioma  
+Documentar o processo técnico e os aprendizados  
+Criar uma base de apoio para futuras implementações e estudos
 
 ---
 
-## 🚀 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - [Azure Speech Studio](https://speech.microsoft.com/)
 - [Azure Language Studio](https://language.cognitive.azure.com/)
@@ -24,14 +24,14 @@ Este repositório foi criado como parte do laboratório prático proposto pela D
 
 ---
 
-## 📝 Principais Atividades Realizadas
+## Principais Atividades Realizadas
 
-### 🔊 Speech Studio
+### Speech Studio
 - Teste de reconhecimento de fala (Speech to Text)
 - Conversão de texto em fala (Text to Speech)
 - Análise das vozes disponíveis e customização da entonação
 
-### 🧾 Language Studio
+### Language Studio
 - Análise de Sentimento em diferentes contextos
 - Extração de frases-chave e entidades nomeadas
 - Detecção automática de idioma
@@ -39,7 +39,7 @@ Este repositório foi criado como parte do laboratório prático proposto pela D
 
 ---
 
-## 🧩 Aprendizados
+## Aprendizados
 
 - A importância de **serviços prontos para uso** em projetos de IA
 - Diferença entre **IA de fala** e **IA de linguagem natural**
@@ -47,7 +47,7 @@ Este repositório foi criado como parte do laboratório prático proposto pela D
 
 ---
 
-## 🔗 Referências e Materiais de Apoio
+## Referências e Materiais de Apoio
 
 - [Explore Speech Studio – Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/explore-speech-studio/)
 - [Analyze text with Language Studio – Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-language-studio/)
