@@ -14,7 +14,7 @@ Converter entrada de áudio em texto.
 - Testado com áudios em inglês.
 - Capaz de reconhecer pausas e pontuação básica.
 
-### 🛠️ Exemplo usado:
+###Exemplo usado:
 > Áudio: “Hi am Gabriela. I am testing the speech studio.”
 
 **Resultado da transcrição:**  
@@ -23,7 +23,7 @@ Converter entrada de áudio em texto.
 
 ---
 
-## 📌 Considerações Finais
+##Considerações Finais
 
 - Speech Studio é intuitivo, mesmo para iniciantes.
 - Recurso útil para **acessibilidade**, **assistentes de voz** e **atendimentos automatizados**.
