@@ -1,0 +1,13 @@
+# Azure Language Studio – Anotações de Teste
+
+Este documento apresenta um teste de análise de sentimento e observações realizadas com o **Language Studio**, plataforma voltada ao **Processamento de Linguagem Natural (PLN)** no Azure.
+
+## 😊 Análise de Sentimento
+
+### ✅ Objetivo
+Classificar o tom emocional do texto (positivo, negativo ou neutro).
+
+## Considerações Finais
+
+- Excelente recurso para análise de **feedbacks**, **chats**, **pesquisas** e **resumos de documentos**.
+- Interface amigável e com exemplos prontos para testes.
